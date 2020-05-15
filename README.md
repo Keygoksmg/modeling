@@ -11,7 +11,7 @@
 ```
 \begin{document} 
 ```
-いかにある
+以下にある
 ```
 \begin{lstlisting}[caption=課題,label=fuga]
 ここにコードをいれる
